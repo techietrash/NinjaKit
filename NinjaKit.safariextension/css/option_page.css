@@ -9,6 +9,9 @@ body, ol, ul, li, section, div, button{
 ul{
   list-style-type:none;
 }
+ul.option_list {
+    margin-left:1em;
+}
 body {
   -webkit-box-orient:vertical;
   -webkit-box-direction:normal;
@@ -264,6 +267,7 @@ input.input_button{
 #left_box{
   width:200px;
   float:left;
+  font-size:9pt;
 }
 #right_box:after{
   content:'';
