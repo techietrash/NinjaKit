@@ -15,7 +15,8 @@ yet another greasemonkey
     coming soon...
 
 ## Hacking
-Building this extension is done from Safari, using the Develop menu. For more information, see [Apple's guide](https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/UsingExtensionBuilder/UsingExtensionBuilder.html#//apple_ref/doc/uid/TP40009977-CH2-SW1) on the subject.
+### Safari
+The extension is built and installed from within Safari itself, using the Develop menu and the Extension Builder. For more information, see [Apple's guide](https://developer.apple.com/library/safari/documentation/Tools/Conceptual/SafariExtensionGuide/UsingExtensionBuilder/UsingExtensionBuilder.html#//apple_ref/doc/uid/TP40009977-CH2-SW1) on the subject.
     
 ## License
 - [MIT License](http://os0x.mit-license.org/)
