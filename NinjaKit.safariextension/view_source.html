@@ -2,14 +2,14 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Greased Chrome source viewer</title>
+<title>NinjaKit source viewer</title>
 <link href="css/greasebox.css" rel="stylesheet" type="text/css">
 </head>
 <body id="view-source">
-<h1>Greasemonkey Source viewer</h1>
+<h1>NinjaKit source viewer</h1>
 <div id="content">
 <div class="top">
-  <h2 id="script-name">loading...</h2>
+  <h2 id="script-name">Loading...</h2>
   <dl id="includes">
   <dt>Includes:
   </dl>
@@ -19,10 +19,10 @@
   <pre id="script-source"></pre>
 </div>
 <div class="bottom">
-  <p id="install-note">You should only install scripts from sources that you trust</p>
+  <p id="install-note">Only install scripts from sources you trust!</p>
   <script>if (/^ja/.test(navigator.language))document.querySelector('#install-note').textContent = '信頼できるソースからのみ、スクリプトをインストールすべきです。';</script>
   <button id="install" disabled>Install</button>
-  <button id="cancel">cancel</button>
+  <button id="cancel">Cancel</button>
 </div>
 </div>
 <script src="js/js_highlight.js"></script>
