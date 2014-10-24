@@ -410,3 +410,10 @@ fieldset select{
 fieldset.disabled #edit-wrap {
   opacity: 0.3;
 }
+
+div.line {
+	font-family:monospace;
+}
+textarea#edit-area {
+	font-family:monospace;
+}
