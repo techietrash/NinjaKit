@@ -2,20 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-   <key>Extension Updates</key>
-   <array>
-     <dict>
-       <key>CFBundleIdentifier</key>
-       <string>net.os0x.ninjakit</string>
-       <key>Developer Identifier</key>
-       <string>LAM47A73AC</string>
-       <key>CFBundleVersion</key>
-       <string>0.9.1</string>
-       <key>CFBundleShortVersionString</key>
-       <string>0.9.1</string>
-       <key>URL</key>
-       <string>http://ss-o.net/safari/extension/NinjaKit.safariextz</string>
-     </dict>
-   </array>
+	<key>Extension Updates</key>
+	<array>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>net.techietrash.ninjakit</string>
+			<key>Developer Identifier</key>
+			<string>TTK6WJTDL7</string>
+			<key>CFBundleVersion</key>
+			<string>0.9.3a</string>
+			<key>CFBundleShortVersionString</key>
+			<string>0.9.3a</string>
+			<key>URL</key>
+			<string>https://github.com/techietrash/NinjaKit/raw/ui%2B%2B/NinjaKit.safariextz</string>
+		</dict>
+	</array>
 </dict>
 </plist>

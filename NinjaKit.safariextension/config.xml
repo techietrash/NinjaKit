@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
-        id="extensions:os0x-NinjaKit"
-        version="0.9.2a">
+        id="extensions:techietrash-NinjaKit"
+        version="0.9.3a">
   <name>NinjaKit</name>
   <description>yet another greasemonkey. This is an experimental extension.</description>
-  <author href="http://ss-o.net/">os0x</author>
+  <author href="https://github.com/techietrash/NinjaKit/">os0x (mod by techietrash)</author>
   <icon src="Icon-48.png"/>
   <access origin="*" subdomains="true"/>
-  <update-description href="https://ssl68.heteml.jp/os0x/ss-onet/opera/extension/NinjaKit.update.xml"/>
+  <update-description href="https://github.com/techietrash/NinjaKit/raw/ui%2B%2B/NinjaKit.update.xml"/>
 </widget>

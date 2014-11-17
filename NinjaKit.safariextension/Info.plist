@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>os0x</string>
+	<string>os0x (mod by techietrash)</string>
 	<key>Builder Version</key>
 	<string>9537.85.10.17.1</string>
 	<key>CFBundleDisplayName</key>
 	<string>NinjaKit</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.os0x.ninjakit</string>
+	<string>net.techietrash.ninjakit</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.9.2a</string>
+	<string>0.9.3a</string>
 	<key>CFBundleVersion</key>
-	<string>0.9.2a</string>
+	<string>0.9.3a</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Global Page</key>
@@ -69,8 +69,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://ss-o.net/safari/extension/NinjaKit/update.plist</string>
+	<string>https://github.com/techietrash/NinjaKit/raw/ui%2B%2B/update.plist</string>
 	<key>Website</key>
-	<string>http://ss-o.net/</string>
+	<string>https://github.com/techietrash/NinjaKit/</string>
 </dict>
 </plist>
