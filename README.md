@@ -4,6 +4,7 @@ yet another greasemonkey
 ## Install
 - Chrome
 
+    This is the **old version of NinjaKit** still, if using Google Chrome you should use [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) instead!
     [https://chrome.google.com/webstore/detail/gpbepnljaakggeobkclonlkhbdgccfek](https://chrome.google.com/webstore/detail/gpbepnljaakggeobkclonlkhbdgccfek)
 
 - Safari
