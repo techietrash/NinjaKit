@@ -8,7 +8,7 @@ yet another greasemonkey
 
 - Safari
 
-    [http://ss-o.net/safari/extension/NinjaKit.safariextz](http://ss-o.net/safari/extension/NinjaKit.safariextz)
+    [https://github.com/techietrash/NinjaKit/raw/ui++/NinjaKit.safariextz](https://github.com/techietrash/NinjaKit/raw/ui%2B%2B/NinjaKit.safariextz)
 
 - Opera
 
